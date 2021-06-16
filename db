@@ -1,0 +1,27 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Brian Voong",
+    "username": "brianvoong"
+  },
+  "series": [
+    {
+      "id": 1,
+      "title": "Peaky Blinders",
+      "by": "Steven Knight",
+      "rating": "8.8",
+      "genres": "Crime, Drama",
+      "imageUrl": "https://moviesverse.org.in/wp-content/uploads/2019/12/Download-Peaky-Blinders-S01-S05-English-480p-720p-WeB-HD-Esubs.jpg"
+
+    },
+    {
+      "id": 2,
+      "title": "Peaky Blinders S2",
+      "by": "Steven Knight",
+      "rating": "8.8",
+      "genres": "Crime, Drama",
+      "imageUrl": "https://moviesverse.org.in/wp-content/uploads/2019/12/Download-Peaky-Blinders-S01-S05-English-480p-720p-WeB-HD-Esubs.jpg"
+
+    }
+  ]
+}
